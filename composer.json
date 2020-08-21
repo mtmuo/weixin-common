@@ -1,0 +1,23 @@
+{
+  "name": "mtmuo/weixin-common",
+  "description": "weixin-common",
+  "keywords": [
+    "weixin-common"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mtmuo",
+      "email": "21723614@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "mtmuo\\weixin\\common\\": "src/"
+    }
+  }
+}
